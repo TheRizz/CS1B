@@ -1,0 +1,48 @@
+**************************************************
+* PROGRAMMED BY : Ryan Martinez
+* CLASS         : CS1B
+* SECTION       : MWF: 8:00a - 10:50a
+* LAB #3        : Selection and Repetition
+**************************************************
+
+Welcome to the Automated Box Calculator!
+Please enter any number of boxes to be calculated.
+
+Please enter your box's weight (Enter 0 to stop)
+2
+
+Please enter your box's weight (Enter 0 to stop)
+35
+
+Please enter your box's weight (Enter 0 to stop)
+12
+
+Please enter your box's weight (Enter 0 to stop)
+1
+
+Please enter your box's weight (Enter 0 to stop)
+17
+
+Please enter your box's weight (Enter 0 to stop)
+4
+
+Please enter your box's weight (Enter 0 to stop)
+50
+
+Your box size is too large, please enter a smaller box size.
+
+
+Please enter your box's weight (Enter 0 to stop)
+-1
+
+You have entered an invalid box size, please enter a valid box size
+
+
+Please enter your box's weight (Enter 0 to stop)
+0
+
+2 packages under 2 lbs.
+2 packages between 3 - 12 lbs.
+1 packages between 13 - 20 lbs.
+1 packages between 21 - 40 lbs.
+The total shipping price is $57.50

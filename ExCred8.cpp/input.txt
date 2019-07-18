@@ -1,0 +1,24 @@
+John Smith
+20
+Math
+3.5
+
+Anna White
+19
+English
+3.2
+
+Paul Johnson
+18
+Physics
+3.7
+
+Andrew Hannah
+23
+Political Science
+2.8
+
+Jonathan Cabrera
+22
+Engineering
+3.3
